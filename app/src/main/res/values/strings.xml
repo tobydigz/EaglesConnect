@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eagles Connect</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="randomtext">
+        Softcom\'s accuracy and timelines in delivering on large scale
+        projects is commendable. It sets them apart from other companies
+        offering similar services in their industry.
+    </string>
+    <string name="forum_text">H.O.P.E (acronym for Helping Other People Excel) is a community-development initiative of the Covenant University Alumni Association (CUALA).</string>
+</resources>

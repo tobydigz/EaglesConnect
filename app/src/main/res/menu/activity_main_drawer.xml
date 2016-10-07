@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="Contacts" />
+        <item
+            android:id="@+id/nav_yearbook"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="Yearbook" />
+        <item
+            android:id="@+id/nav_forum"
+            android:icon="@drawable/ic_group_work_black_24dp"
+            android:title="Forum" />
+
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/ic_archive_black_24dp"
+            android:title="Archive" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_help_black_24dp"
+                android:title="Help" />
+
+
+        </menu>
+    </item>
+
+</menu>
